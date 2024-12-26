@@ -1,2 +1,2 @@
-paramiko==2.12.0
-pycryptodome==3.18.0
+paramiko==3.5.0
+pycryptodome==3.21.0
